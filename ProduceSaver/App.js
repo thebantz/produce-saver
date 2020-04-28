@@ -21,7 +21,7 @@ const App = () => {
       <Text>Home Screen</Text>
       <Button
         title="Go to Details"
-        onPress={() => { }}
+        onPress={() => { alert() }}
       ></Button>
     </View>
   )
